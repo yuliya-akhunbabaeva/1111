@@ -4,6 +4,6 @@ export const  data = {
   successfulLoginNotification: "You logged into a secure area!",
   successfulLogOutNotification: "You logged out of the secure area!",
   notificationActionUnsuccessful: 'Action unsuccesful, please try again',
-  notificationActionSuccessful:'Action successful',
+  notificationActionSuccessful:'Action successful',.....
 }
 
